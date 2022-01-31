@@ -1,4 +1,4 @@
 # group-voice-backend
 Backend for group voice project
-# prerequisites
+# Prerequisites
 Knowledge of Node js and Express js.
